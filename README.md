@@ -2,7 +2,7 @@
 ## Los vigilantes del aula
 * Guillermo Blengio Landín
 * José Antonio Cortés Olmos
-* Aarón Gómez de Segura
+* Aarón Gómez de Segura González
 * Carlos Guerrero Avila
 * Braulio Rodrigo Gutiérrez Martínez
 
