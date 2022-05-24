@@ -1,4 +1,4 @@
-# Algoritmos Genéticos para Testing de videojuegos
+# Algoritmos Genéticos para Testing de Videojuegos
 ## Los vigilantes del aula
 * Guillermo Blengio Landín
 * José Antonio Cortés Olmos
