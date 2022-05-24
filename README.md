@@ -1,4 +1,4 @@
-# ProyectoFinalSimulacin
+# Algoritmos Genéticos para Testing de videojuegos
 ## Los vigilantes del aula
 * Guillermo Blengio Landín
 * José Antonio Cortés Olmos
