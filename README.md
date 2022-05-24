@@ -5,3 +5,9 @@
 * Aarón Gómez de Segura
 * Carlos Guerrero Avila
 * Braulio Rodrigo Gutiérrez Martínez
+
+## Características de los escenarios
+### Escenario 1
+Hola Hola
+### Escenario 2
+Hola Hola
